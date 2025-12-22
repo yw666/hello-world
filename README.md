@@ -1,2 +1,2 @@
 # hello-world
-Testing Git Function
+A humble student trying to figure out something
